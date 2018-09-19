@@ -1917,9 +1917,9 @@ public abstract class AbstractButton extends JComponent implements ItemSelectabl
 						actionCommand = getActionCommand();
 					}
 					e = new ActionEvent(AbstractButton.this, ActionEvent.ACTION_PERFORMED, actionCommand,
-							event.getWhen(), event.getModifiers());
+							event.getWhen(), event.getModifiers());//构造事件参数，告诉应用层是何种事件发生
 				}
-				((ActionListener) listeners[i + 1]).actionPerformed(e);
+				((ActionListener) listeners[i + 1]).actionPerformed(e);//回调应用层的实现
 			}
 		}
 	}
