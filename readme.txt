@@ -19,6 +19,11 @@
 文件目录：/decorator
 	1、简单案例
 	2、OutputStream源码  DecoratorTest.java、BufferedOutputStream.java
+	方法write(byte b[], int off, int len)
 
-		
+五、观察者模式
+文件目录：/observer
+	1、简单小demo /observer/first
+	2、在JDK中，观察者模式也得到了普遍的应用。一个最典型的应用便是Swing框架的JButton。  /observer/swing
+	方法fireActionPerformed()	
 	
