@@ -17,5 +17,8 @@
 
 四、装饰者模式
 文件目录：/decorator
+	1、简单案例
+	2、OutputStream源码  DecoratorTest.java、BufferedOutputStream.java
+
 		
 	
