@@ -4,7 +4,7 @@ package design_mode.proxy.proxy_static;
 public class DBQuery implements IDBQuery {
 	public DBQuery() {
 		try {
-//			Thread.sleep(1000);//可能包含数据库连接等耗时操作
+			Thread.sleep(1000);//可能包含数据库连接等耗时操作
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
