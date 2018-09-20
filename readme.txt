@@ -26,4 +26,8 @@
 	1、简单小demo /observer/first
 	2、在JDK中，观察者模式也得到了普遍的应用。一个最典型的应用便是Swing框架的JButton。  /observer/swing
 	方法fireActionPerformed()	
+
+六、Value Object模式,简单案例
+文件目录：/valueObject
+	1、新知识点 RMI（Remote Method Invocation）远程方法调用
 	
