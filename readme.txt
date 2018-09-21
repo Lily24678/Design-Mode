@@ -10,6 +10,14 @@
 文件目录：/proxy
 	1、静态代理 /proxy/proxy_static
 	2、动态代理 /proxy/proxy_dynamic   CGLIB+Javassist+JDK
+	
+		<!-- Javassist 的动态代理 -->
+		<dependency>
+			<groupId>javassist</groupId>
+			<artifactId>javassist</artifactId>
+			<version>3.12.1.GA</version>
+		</dependency>	
+		
 	3、性能测试 Main.java
 	
 三、享元模式简单案例
