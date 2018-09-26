@@ -43,3 +43,15 @@
 目录文件：/future
 	1、Future模式 入门 /future/hello
 	2、JDK内置实现 /future/jdk
+
+八、Master-Worker模式
+文件目录：/master_worker
+	1、案例：1~100的立方和
+	
+九、Guarded Suspension模式
+文件目录：/GuardedSuspension
+
+十、
+
+
+
