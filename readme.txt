@@ -38,4 +38,8 @@
 六、Value Object模式,简单案例
 文件目录：/valueObject
 	1、新知识点 RMI（Remote Method Invocation）远程方法调用
-	
+
+七、Future模式
+目录文件：/future
+	1、Future模式 入门 /future/hello
+	2、JDK内置实现 /future/jdk
