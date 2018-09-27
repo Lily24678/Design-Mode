@@ -51,7 +51,8 @@
 九、Guarded Suspension模式
 文件目录：/GuardedSuspension
 
-十、
+十、生产者-消费者模式
+文件目录：/producer_consumer
 
 
 
