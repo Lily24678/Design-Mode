@@ -1,6 +1,7 @@
 package design_mode.flyweight;
 
 /**
+ * 具体享元类
  * 员工个人信息报表
  */
 public class EmployeeReportManager implements IReportManager {

@@ -1,6 +1,7 @@
 package design_mode.flyweight;
 
 /**
+ * 具体享元类
  * 员工财务收入报表
  */
 public class FinancialReportManager implements IReportManager {
